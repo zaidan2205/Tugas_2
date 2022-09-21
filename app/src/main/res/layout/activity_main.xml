@@ -11,14 +11,7 @@
         android:id="@+id/tv1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Zaidan Nabil Diwangkara_H1D020034_Tugas 2_Shift H"
+        android:text="Hello Android"
         android:layout_centerHorizontal="true"
         android:layout_centerVertical="true"/>
-    <Button
-        android:id="@+id/btn1"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Button"
-        android:layout_below="@+id/tv1"
-        android:layout_centerHorizontal="true" />
 </RelativeLayout>
